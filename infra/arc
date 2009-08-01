@@ -1,0 +1,6 @@
+#!/bin/bash
+export wd=`pwd`
+cd /usr/local/lib/arc3
+[ -h wd ] && rm wd
+ln -s $wd wd
+with-readline mzscheme -m -f as.scm
