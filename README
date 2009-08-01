@@ -1,0 +1,2 @@
+app/ = "application" = everything (including install info) for the aplication itself. see app/README
+infra/ = "infrastructure"
