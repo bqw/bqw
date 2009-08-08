@@ -1,2 +1,15 @@
-figure out how to have sandboxes so that multiple instances of this website can be running at once (subdomains?)
-I would still like to have user setup stuff: everything except the ssh privite key itself
+* get arc working again
+
+
+* infrastructure
+  * bug tracker
+  * timekeeping software
+  * schedule
+* arc server
+  * figure out how to have sandboxes so that multiple instances of this website can be running at once (subdomains?)
+  * install arc 3.1
+  * load ~/.arc on startup
+  > learn how fnid works
+  * implement syslog
+* 100% automated server install
+> learn/setup cijoe
