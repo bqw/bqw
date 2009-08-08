@@ -1,5 +1,8 @@
+= assumed foreknowledge
+ TODO: links to introductions to arc and anything else that would be helpful
 
-The file hierarchy is separated according to concerns
+
+= The file hierarchy is separated according to concerns
 
 functionality/ = anything that is absolutely needed for the product to be functional will be here
 team/ = things that help the team cooperate or individually operate
