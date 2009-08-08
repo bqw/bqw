@@ -1,3 +1,0 @@
-#!/bin/bash
-cp -r /usr/local/lib/arc3/* .
-with-readline mzscheme -m -f as.scm

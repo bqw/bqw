@@ -5,6 +5,7 @@
   * bug tracker
   * timekeeping software
   * schedule
+  * testing stratagy
 * arc server
   * figure out how to have sandboxes so that multiple instances of this website can be running at once (subdomains?)
   * install arc 3.1
