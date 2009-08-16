@@ -1,0 +1,15 @@
+* get arc working again
+
+* don't bother putting arc stuff in /.../lib/arc, just put it directly in /functionality/ so it'll be used the way it's meant to.
+
+
+* infrastructure
+  * bug tracker
+  * timekeeping software
+  * testing stratagy
+    > learn/setup cijoe
+* arc server
+  * figure out how to have sandboxes so that multiple instances of this website can be running at once (subdomains?)
+  * load ~/.arc on startup
+  > learn how fnid works
+  * implement syslog
